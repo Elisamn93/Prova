@@ -3,8 +3,5 @@ ID;title;stock
 2;Jane Eyre;500
 3;Pride and Prejudice;200
 4;Little Women;500
-<<<<<<< HEAD
-5;Picture of Dorian Gray;500
-=======
-5;The great Gatsby;600
->>>>>>> 903f8e639118ae99531efe9974f729c21bae1b37
+6;Picture of Dorian Gray;500
+7;The great Gatsby;600
